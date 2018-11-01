@@ -34,5 +34,29 @@ body{
 .table .thead-dark th{
     color:floralwhite;
     background-color:#6E3F19
+}   a:link { 
+    text-decoration: none;
+    color: grey;
 }
+a:visited {  
+    text-decoration: none;
+    color: blue;
+}
+a:hover { 
+    text-decoration: none;
+    color: green;
+}
+a:active { 
+    text-decoration: none;
+    color: green;
+}
+
 tr:hover {background-color:#dbb08db0!important}
+dl {
+    color : chocolate;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
