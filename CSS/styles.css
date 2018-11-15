@@ -60,3 +60,6 @@ dl {
     margin-left: 0;
     margin-right: 0;
 }
+.card{background-color:orange; color:floralwhite;}
+.form{background-color: whitesmoke; color:black;}
+.submit1{ margin-top:1em; margin-bottom:2em; margin-left: 0; margin-right:0; color:orange; padding:20px 0px 0px 0px; }
